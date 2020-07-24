@@ -12,3 +12,4 @@ def Fact(n):
 x= int(input("Enter a value to calculte factorial :"))
 val=Fact(x)
 print("The factorial of ",x, "is : ",val)
+print("Hello World")
